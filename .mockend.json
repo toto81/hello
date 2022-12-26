@@ -29,8 +29,8 @@
       }
     }
   },
-  "Solde": {
-     { "name": { "regexp": "[A-Z][a-z]{5,10}" } },
+  "Solde": { 
+      "name": { "regexp": "[A-Z][a-z]{5,10}" } },
       "montant": {  "int": { "min": 0, "max": 500 } }
      }
 }
