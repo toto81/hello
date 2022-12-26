@@ -4,8 +4,8 @@
 
 # REST examples
 
-- https://mockend.com/toto81/hello/users
-- https://mockend.com/toto81/hello/users/1
+- https://mockend.com/toto81/hello/factures
+- https://mockend.com/toto81/hello/factures/1
 
 
 # GraphQL examples
