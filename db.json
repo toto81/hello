@@ -1,0 +1,61 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "second",
+      "author": "typicode"
+    },
+    {
+      "mail": "email@example.com",
+      "password": "sas",
+      "id": 3
+    },
+    {
+      "mail": "email@example1.com",
+      "password": "qwerty",
+      "id": 4
+    }
+  ],
+  "factures": [
+    {
+      "id": 1,
+      "profile": "123",
+      "date": "Janvier 2022",
+      "operateur": "lydec",
+      "montant": "55,07"
+    },
+    {
+      "id": 2,
+      "profile": "123",
+      "date": "Février 2022",
+      "operateur": "one",
+      "montant": "105,34"
+    },
+    {
+      "id": 3,
+      "profile": "123",
+      "date": "Mars 2022",
+      "operateur": "lydec",
+      "montant": "64,26"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": [
+    {
+      "id": 123,
+      "name": "typicode",
+      "solde": "130"
+    }
+  ]
+}
